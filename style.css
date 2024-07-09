@@ -7,3 +7,10 @@ body {
 
     background-color: rgb(25,25,25);
 }
+
+.linkSection {
+
+    display: flex;
+    justify-content: center;
+
+}
